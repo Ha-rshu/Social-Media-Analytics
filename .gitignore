@@ -1,0 +1,8 @@
+.env
+*.session
+*.session-journal
+__pycache__/
+*.pyc
+.vscode/
+telegram_messages.jsonl
+modules_zip.zip
